@@ -1,0 +1,21 @@
+{
+  "name": "nextjs_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "next": "^15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.12",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}

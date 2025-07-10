@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7ba520371a478974",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb369b3333f3ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42abd38a2eb39e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project_setup"
+            }
+          },
+          {
+            "id": "8e8250426e121cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "394efda77a9c0418",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d83dda7eeb76ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2966ee3dd978ac43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b30badea7f128c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f3a2c4d50878a37d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "031b6eb23e2b9ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "863dce59e2e72512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a51748934f210c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "834ce1702cdb520f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "1bbf8ff25be3a727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "16087056a0bd54cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8e8250426e121cba",
+  "lastOpenFiles": [
+    "refImgs/nextjs_404errors.png",
+    "refImgs/nextjs_route_sample1.gif",
+    "Project_setup.md",
+    "Routing.md",
+    "Root_Layout.md",
+    "reports/Project_setup.md",
+    "reports",
+    "app/layout.tsx",
+    "node_modules/next/dist/compiled/constants-browserify/constants.json",
+    "node_modules/next/dist/compiled/constants-browserify/package.json",
+    "node_modules/next/dist/compiled/constants-browserify",
+    "next-env.d.ts",
+    "tsconfig.json",
+    "node_modules/@types/node/readline/promises.d.ts",
+    "node_modules/@types/node/readline",
+    "node_modules/@types/node/fs/promises.d.ts",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/next/README.md",
+    "node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "node_modules/next/dist/compiled/react-refresh/README.md",
+    "node_modules/next/dist/compiled/react-is/README.md",
+    "node_modules/next/dist/compiled/@babel/runtime/README.md",
+    "node_modules/next/license.md",
+    "node_modules/react-dom/README.md",
+    "node_modules/semver/README.md",
+    "node_modules/styled-jsx/license.md",
+    "node_modules/react/README.md",
+    "node_modules/@next/swc-win32-x64-msvc/README.md",
+    "node_modules/busboy/README.md",
+    "node_modules/streamsearch/README.md",
+    "node_modules/picocolors/README.md",
+    "node_modules/@swc/counter/README.md",
+    "node_modules/@swc/counter/CHANGELOG.md",
+    "node_modules/color-convert/CHANGELOG.md"
+  ]
+}
