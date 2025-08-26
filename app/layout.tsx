@@ -1,3 +1,4 @@
+import Navigation from "../components/navigation"
 
 export const metadata = {
   title: 'Next.js',
@@ -11,7 +12,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Navigation />
+      </body>
     </html>
   )
 }

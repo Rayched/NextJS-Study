@@ -49,4 +49,3 @@ export default function NotFound(){
 - 추가 설명 없이 넘어가도록 하겠다.
 
 ---
-

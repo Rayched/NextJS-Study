@@ -1,3 +1,5 @@
+import Navigation from "../components/navigation";
+
 function page(){
     return (
         <div>
