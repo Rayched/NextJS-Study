@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Navigation_Bar"
             }
+          },
+          {
+            "id": "167a38dd56bf0343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hydration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hydration"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -166,10 +182,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "10f080ec1a99b1f5",
+  "active": "167a38dd56bf0343",
   "lastOpenFiles": [
-    "Not_Found_Routes.md",
+    "refImgs/disabled_js.gif",
+    "refImgs/abled_js.gif",
     "Navigation_Bar.md",
+    "Hydration.md",
+    "Not_Found_Routes.md",
     "refImgs/usePathName_errors.png",
     "Routing.md",
     "Project_setup.md",
@@ -206,7 +225,6 @@
     "node_modules/streamsearch/README.md",
     "node_modules/picocolors/README.md",
     "node_modules/@swc/counter/README.md",
-    "node_modules/@swc/counter/CHANGELOG.md",
-    "node_modules/color-convert/CHANGELOG.md"
+    "node_modules/@swc/counter/CHANGELOG.md"
   ]
 }
