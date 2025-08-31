@@ -1,6 +1,6 @@
 function MoviesPage(){
     return (
-        <div>Movies</div>
+        <div>Movies Page</div>
     );
 };
 

@@ -11,10 +11,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html>
       <body>
-        {children}
         <Navigation />
+        {children}
       </body>
     </html>
   )
