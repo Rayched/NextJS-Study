@@ -13,3 +13,8 @@
 
 ---
 
+### 📆 Day 5, 2025-09-01 월요일
+- **[Route Group](/reports/Route-group.md)**
+- **[Metadata](/reports/metadata.md)**
+
+---
