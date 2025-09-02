@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Route.md",
+                "file": "Dynamic-Route.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Route"
+              "title": "Dynamic-Route"
             }
           }
         ]
@@ -171,7 +171,7 @@
   "lastOpenFiles": [
     "metadata.md",
     "refImgs/dynamic-route_props_print.png",
-    "Dynamic Route.md",
+    "Dynamic-Route.md",
     "refImgs/Dynamic-route_false.png",
     "refImgs/Dynamic-route_true.png",
     "Route-group.md",

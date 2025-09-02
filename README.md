@@ -18,3 +18,9 @@
 - **[Metadata](/reports/metadata.md)**
 
 ---
+
+### 📆 Day 6, 2025.09.02 화요일
+- **[Dynamic Route](/reports/Dynamic-Route.md)**
+
+---
+
