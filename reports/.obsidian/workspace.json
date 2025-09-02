@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metadata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "metadata"
-            }
-          },
-          {
-            "id": "7d5fa1e7c6ae51f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Dynamic Route.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Dynamic Route"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "031b6eb23e2b9ea0",
@@ -181,10 +167,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d5fa1e7c6ae51f5",
+  "active": "9463f6cee82ac6b6",
   "lastOpenFiles": [
     "metadata.md",
+    "refImgs/dynamic-route_props_print.png",
     "Dynamic Route.md",
+    "refImgs/Dynamic-route_false.png",
+    "refImgs/Dynamic-route_true.png",
     "Route-group.md",
     "Layout.md",
     "refImgs/metadata_template.png",
@@ -201,8 +190,6 @@
     "Not_Found_Routes.md",
     "refImgs/usePathName_errors.png",
     "Routing.md",
-    "refImgs/not_found_page_sample.png",
-    "refImgs/not_found_pages.png",
     "NotFound",
     "Root_Layout.md",
     "reports/Project_setup.md",
@@ -226,7 +213,6 @@
     "node_modules/react-dom/README.md",
     "node_modules/semver/README.md",
     "node_modules/styled-jsx/license.md",
-    "node_modules/react/README.md",
-    "node_modules/@next/swc-win32-x64-msvc/README.md"
+    "node_modules/react/README.md"
   ]
 }

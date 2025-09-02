@@ -1,11 +1,8 @@
 import { Metadata } from "next";
 import Navigation from "../components/navigation"
 
-export const metadata: Metadata = {
-  title: {
-    template: "NextJS Study | %s",
-    default: "NextJS Study"
-  },
+export const metadata = {
+  title: "NextJS Study",
   description: 'NextJS 프레임워크 학습용 예제입니다.',
 };
 
