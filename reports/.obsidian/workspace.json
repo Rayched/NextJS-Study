@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metadata.md",
+                "file": "Dynamic-Route.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "metadata"
             }
           },
@@ -51,6 +52,12 @@
           }
         ],
         "currentTab": 2
+=======
+              "title": "Dynamic-Route"
+            }
+          }
+        ]
+>>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
       }
     ],
     "direction": "vertical"
@@ -196,11 +203,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< HEAD
   "active": "eb5a97e4ff5a290f",
+=======
+  "active": "9463f6cee82ac6b6",
+>>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
   "lastOpenFiles": [
     "Dynamic-Route.md",
     "Data_Fetchs_in_Nextjs.md",
     "metadata.md",
+<<<<<<< HEAD
+=======
+    "refImgs/dynamic-route_props_print.png",
+    "Dynamic-Route.md",
+    "refImgs/Dynamic-route_false.png",
+    "refImgs/Dynamic-route_true.png",
+>>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
     "Route-group.md",
     "Layout.md",
     "refImgs/metadata_template.png",
@@ -217,8 +235,6 @@
     "Not_Found_Routes.md",
     "refImgs/usePathName_errors.png",
     "Routing.md",
-    "refImgs/not_found_page_sample.png",
-    "refImgs/not_found_pages.png",
     "NotFound",
     "Root_Layout.md",
     "reports/Project_setup.md",

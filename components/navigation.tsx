@@ -20,8 +20,8 @@ export default function Navigation(){
                     {PathName === "/details" ? "👈" : null}
                 </li>
                 <li>
-                    <Link href={"/details/movies"}>Movies</Link>
-                    {PathName === "/movies" ? "👈" : null}
+                    <Link href={"/movies/123456"}>Movies</Link>
+                    {PathName === "/movies/movieId" ? "👈" : null}
                 </li>
             </ul>
         </nav>

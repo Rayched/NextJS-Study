@@ -16,6 +16,17 @@
 ### 📆 Day 5, 2025-09-01 월요일
 - **[Route Group](/reports/Route-group.md)**
 - **[Metadata](/reports/metadata.md)**
+<<<<<<< HEAD
 - **[Dynamic Route](/reports/Dynamic-Route.md)**
     - 퇴근 후 이어서 정리할 것...
 ---
+=======
+
+---
+
+### 📆 Day 6, 2025.09.02 화요일
+- **[Dynamic Route](/reports/Dynamic-Route.md)**
+
+---
+
+>>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
