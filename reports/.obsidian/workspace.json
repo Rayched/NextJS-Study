@@ -1,77 +1,41 @@
 {
   "main": {
-    "id": "7ba520371a478974",
+    "id": "1b32489469b487e4",
     "type": "split",
     "children": [
       {
-        "id": "dcc3bcfcee6016dc",
+        "id": "ed61b3d9b4a8f99d",
         "type": "tabs",
         "children": [
           {
-            "id": "9463f6cee82ac6b6",
+            "id": "a1e3a2b464d00c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic-Route.md",
+                "file": "Loading-Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "metadata"
-            }
-          },
-          {
-            "id": "7d5fa1e7c6ae51f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic-Route.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic-Route"
-            }
-          },
-          {
-            "id": "eb5a97e4ff5a290f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data_Fetchs_in_Nextjs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data_Fetchs_in_Nextjs"
-            }
-          }
-        ],
-        "currentTab": 2
-=======
-              "title": "Dynamic-Route"
+              "title": "Loading-Components"
             }
           }
         ]
->>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "394efda77a9c0418",
+    "id": "0ade7a826c230ff6",
     "type": "split",
     "children": [
       {
-        "id": "08d83dda7eeb76ad",
+        "id": "c504ec13ba9aeea9",
         "type": "tabs",
         "children": [
           {
-            "id": "2966ee3dd978ac43",
+            "id": "b94f5d354bd58a0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +48,7 @@
             }
           },
           {
-            "id": "b30badea7f128c6f",
+            "id": "028e99ddd4288d68",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +65,7 @@
             }
           },
           {
-            "id": "f3a2c4d50878a37d",
+            "id": "22117f059efe2eca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,19 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "031b6eb23e2b9ea0",
+    "id": "53189533b5fb250d",
     "type": "split",
     "children": [
       {
-        "id": "863dce59e2e72512",
+        "id": "c77ca2dc4ab49b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "32a51748934f210c",
+            "id": "6233eb5037d2d772",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Loading-Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,24 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Loading-Components 의 백링크"
             }
           },
           {
-            "id": "834ce1702cdb520f",
+            "id": "edc70bd1419ef308",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Loading-Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Loading-Components 의 나가는 링크"
             }
           },
           {
-            "id": "1bbf8ff25be3a727",
+            "id": "9c82715e93a06501",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,17 +138,18 @@
             }
           },
           {
-            "id": "16087056a0bd54cc",
+            "id": "f300c938bf9f8515",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Loading-Components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Loading-Components 의 개요"
             }
           }
         ]
@@ -194,70 +161,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
     }
   },
-<<<<<<< HEAD
-  "active": "eb5a97e4ff5a290f",
-=======
-  "active": "9463f6cee82ac6b6",
->>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
+  "active": "a1e3a2b464d00c68",
   "lastOpenFiles": [
-    "Dynamic-Route.md",
-    "Data_Fetchs_in_Nextjs.md",
-    "metadata.md",
-<<<<<<< HEAD
-=======
-    "refImgs/dynamic-route_props_print.png",
-    "Dynamic-Route.md",
-    "refImgs/Dynamic-route_false.png",
-    "refImgs/Dynamic-route_true.png",
->>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
-    "Route-group.md",
-    "Layout.md",
-    "refImgs/metadata_template.png",
-    "refImgs/details-layout.png",
-    "refImgs/details-layout_in_details.png",
-    "refImgs/details-layout_in_movies.png",
-    "Project_setup.md",
-    "Navigation_Bar.md",
-    "Hydration.md",
-    "().md",
-    "Next_app_execute_process.md",
-    "refImgs/disabled_js.gif",
-    "refImgs/abled_js.gif",
+    "refImgs/Loadings/Loading1.gif",
+    "Loading-Components.md",
+    "refImgs/Loadings",
     "Not_Found_Routes.md",
-    "refImgs/usePathName_errors.png",
-    "Routing.md",
-    "NotFound",
-    "Root_Layout.md",
-    "reports/Project_setup.md",
-    "reports",
-    "app/layout.tsx",
-    "node_modules/next/dist/compiled/constants-browserify/constants.json",
-    "node_modules/next/dist/compiled/constants-browserify/package.json",
-    "node_modules/next/dist/compiled/constants-browserify",
-    "next-env.d.ts",
-    "tsconfig.json",
-    "node_modules/@types/node/readline/promises.d.ts",
-    "node_modules/@types/node/readline",
-    "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/README.md",
-    "node_modules/next/README.md",
-    "node_modules/next/dist/compiled/regenerator-runtime/README.md",
-    "node_modules/next/dist/compiled/react-refresh/README.md",
-    "node_modules/next/dist/compiled/react-is/README.md",
-    "node_modules/next/dist/compiled/@babel/runtime/README.md",
-    "node_modules/next/license.md",
-    "node_modules/react-dom/README.md",
-    "node_modules/semver/README.md",
-    "node_modules/styled-jsx/license.md",
-    "node_modules/react/README.md"
+    "Data_Fetchs.md",
+    "Dynamic-Route.md",
+    "refImgs/not_found/not_found_page_sample.png",
+    "refImgs/Dynamic_route/Dynamic-route_false.png",
+    "refImgs/not_found",
+    "refImgs/Dynamic_route/Dynamic-route_true.png",
+    "refImgs/Dynamic_route",
+    "refImgs/Dynamic_route/dynamic-route_props_print.png",
+    "refImgs/disabled_js.gif",
+    "refImgs/details-layout.png",
+    "refImgs/abled_js.gif",
+    "refImgs/Data_Fetchs/moviesPage.gif",
+    "refImgs/Data_Fetchs"
   ]
 }

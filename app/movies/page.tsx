@@ -1,8 +1,7 @@
-"use client"
+import { title } from "process";
+import { useState } from "react";
 
-import { useEffect, useState } from "react";
-
-interface I_Movies {
+export interface I_Movies {
     "adult": boolean;
     "backdrop_path": string;
     "genre_ids": number[];
@@ -19,36 +18,39 @@ interface I_Movies {
     "vote_count": number;
 };
 
-function MoviesPage(){
-    const [isLoading, setLoading] = useState(true);
-    const [Movies, setMovies] = useState<I_Movies[]>([]);
+export const metaData = {
+    title: "Movies"
+};
 
-    const GetMovieData = async() => {
-        const MovieData = await(await(
-            await fetch("https://nomad-movies.nomadcoders.workers.dev/movies")
-        ).json());
+export const GetMovieData = async() => {
+    const API_URL = "https://nomad-movies.nomadcoders.workers.dev/movies";
+    const MovieData: I_Movies[] = await(await(
+        await fetch(API_URL)
+    ).json());
 
-        setMovies(MovieData);
-        setLoading(false);
-    };
+    return MovieData;
+}
 
-    useEffect(() => {
-        GetMovieData();
-    }, []);
+async function MoviesPage(){
+    const Movies = await GetMovieData();
+
+    /**
+     * 'useState', 'useEffect' 같은 React Hook들은
+     * Client Component에서만 동작하므로
+     * Server Component인 MoviesPage에서는
+     * 동작하지 않는다.
+     */
 
     return (
         <div>
-            <h4>Movie's Data</h4>
-            {   
-                isLoading ? "Loading..."
-                : (<ul>
-                    {
-                        Movies?.map((movieData) => {
-                            return <li key={movieData.id}>{movieData.title}</li>
-                        })
-                    }
-                </ul>)
-            }
+            <h4>Movies Page / Server Side</h4>
+            <ul>
+                {
+                    Movies?.map((data) => {
+                        return <li key={data.id}>{data.title}</li>
+                    })
+                }
+            </ul>
         </div>
     );
 };

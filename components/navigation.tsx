@@ -16,14 +16,14 @@ export default function Navigation(){
                     {PathName === "/" ? "👈" : null}
                 </li>
                 <li>
-                    <Link href={"/details"}>Details</Link>
-                    {PathName === "/details" ? "👈" : null}
+                    <Link href={"/movies"}>Movies / Server Side</Link>
+                    {PathName === "/movies" ? "👈" : null}
                 </li>
                 <li>
-                    <Link href={"/movies"}>Movies</Link>
-                    {PathName === "/movies" ? "👈" : null}
+                    <Link href={"/movies2"}>Movies / Client Side</Link>
+                    {PathName === "/movies2" ? "👈" : null}
                 </li>
             </ul>
         </nav>
     );
-};
+}

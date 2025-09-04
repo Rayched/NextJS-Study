@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ### Dynamic Route
 
 -  `/details`, `/details/movies` 같은 정적 `route`가 아님
@@ -17,8 +16,7 @@ Sample URL: /movies/:movieId
 - URL이 고정되지 않고, 변수 `movieId`의 값에 따라 계속 변하는 Route <br/>
 	=> **`Dynamic Route`**
 
-- 
-=======
+---
 ### Dynamic Route (동적 Route)
 
 - `/details`, `/detail/movies`와 같은 static route (정적 route)가 아닌
@@ -50,7 +48,7 @@ Sample URL: /movies/:movieId
 
 - 물론 `id`를 `[ 중괄호 ]` 감싸주지 않으면 변수로서 기능을 하지 못하게 된다.
 
-<img src="refImgs/Dynamic-route_true.png"/>
+<img src="refImgs/Dynamic_route/Dynamic-route_true.png"/>
 
 - `/movies/[id]` URL의 변수 `id`의 임의의 값을 집어넣어도
 - 문제 없이 `/[id]`의 `page`가 출력되는 것을 확인할 수 있다.
@@ -58,7 +56,7 @@ Sample URL: /movies/:movieId
 - 반대로 `id`를 중괄호로 묶지 않은 상태에서 접속을 시도하면
 - `not found page`가 나오는 것을 확인할 수 있다.
 
-<img src="refImgs/Dynamic-route_false.png"/>
+<img src="refImgs/Dynamic_route/Dynamic-route_false.png"/>
 
 ---
 
@@ -103,6 +101,4 @@ export default async function MovieDetailPage({params, searchParams}){
 };
 ```
 
-<img src="refImgs/dynamic-route_props_print.png"/>
-
->>>>>>> fea7feefc0ad2db2694b550d30c666c5c037c58e
+<img src="refImgs/Dynamic_route/dynamic-route_props_print.png"/>

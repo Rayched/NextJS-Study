@@ -12,7 +12,7 @@
 
 - `/musics` 페이지는 정의하지 않았기에 404 에러가 나온다.
 
-<img src="refImgs/not_found_pages.png"/>
+<img src="refImgs/not_found/not_found_pages.png"/>
 
 - 사용자가 입력한 URL에 대응하는 페이지가 없는 경우
 - 즉, 없는 URL로 접속 시에 사용자한테 보여주는 페이지이다.
@@ -43,9 +43,10 @@ export default function NotFound(){
 }
 ```
 
-<img src="refImgs/not_found_page_sample.png"/>
+<img src="refImgs/not_found/not_found_page_sample.png"/>
 
 - 이 글을 쓰는 시점에선 아직 `NextJS`에 대한 이해도가 높지 않기 때문에
 - 추가 설명 없이 넘어가도록 하겠다.
 
 ---
+
