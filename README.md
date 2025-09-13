@@ -7,19 +7,39 @@
 
 ---
 
-#### 📆 Day 1, 2 (2025.07.09 ~ 10)
-- **[프로젝트 수동 설정하기](/reports/Project_setup.md)**
-- **[Routing 구현하기 in NextJS](/reports/Routing.md)**
+### NextJS Basic
 
+``` plainText
+📆 2025.07.09 ~ 2025.09.04
+- 7월 9일부터 10일까지 짦막하게 하다가 일시 중단
+- 9월 1일부터 학습 재개하였음.
+- `3.4 Parallel Requests` Part의 정리본은
+- 하단의 'Next-Movie-App' Part로 분리.
+```
+
+- **[프로젝트 수동 설정하기](/reports/next_basic/Project_setup.md)**
+- **[Routing 구현하기 in NextJS](/reports/next_basic/Routing.md)**
+
+- **[Route Group](/reports/next_basic/Route-group.md)**
+- **[Metadata](/reports/next_basic/metadata.md)**
+- **[Dynamic Route](/reports/next_basic/Dynamic-Route.md)**
+
+- **[`NextJS`에서 Data Fetch하기](/reports/next_basic/Data_Fetchs.md)**
+- **[Loading Components](/reports/next_basic/Loading-Components.md)**
 ---
 
-### 📆 Day 5, 2025-09-01 월요일
-- **[Route Group](/reports/Route-group.md)**
-- **[Metadata](/reports/metadata.md)**
-- **[Dynamic Route](/reports/Dynamic-Route.md)**
----
+### 💻 Next Movie App
 
-### 📆 Day 6 ~ 7, 2025.09.03 ~ 04
-- **[`NextJS`에서 Data Fetch하기](/reports/Data_Fetchs.md)**
-- **[Loading Components](/reports/Loading-Components.md)**
----
+``` plainText
+📆 총 작업 기간: 2025.09.10 ~ 2025.09.00
+- 예전에 React 기초 강의 보면서 만들었던
+- 현재 극장에서 상영 중인 영화 목록과
+  각 영화의 상세 정보를 보여주는 웹 사이트
+- React Movie App을 NextJS 활용해서 새로 만들어보는 프로젝트
+```
+
+- **[Github Repository](https://github.com/Rayched/next-movieapp)**
+
+#### **📆 2025.09.13 토요일**
+
+- **[이전 작업 내역 정리](/reports/next-movie-app/Latest-build-log.md)**

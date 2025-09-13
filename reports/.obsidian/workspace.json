@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed61b3d9b4a8f99d",
+        "id": "9e413fe08efbc8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e3a2b464d00c68",
+            "id": "1aa3d2adc05db319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loading-Components.md",
+                "file": "next-movie-app/Latest-build-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loading-Components"
+              "title": "Latest-build-log"
             }
           }
         ]
@@ -170,24 +170,38 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "a1e3a2b464d00c68",
+  "active": "1aa3d2adc05db319",
   "lastOpenFiles": [
-    "refImgs/Loadings/Loading1.gif",
-    "Loading-Components.md",
-    "refImgs/Loadings",
-    "Not_Found_Routes.md",
-    "Data_Fetchs.md",
-    "Dynamic-Route.md",
-    "refImgs/not_found/not_found_page_sample.png",
-    "refImgs/Dynamic_route/Dynamic-route_false.png",
-    "refImgs/not_found",
-    "refImgs/Dynamic_route/Dynamic-route_true.png",
-    "refImgs/Dynamic_route",
-    "refImgs/Dynamic_route/dynamic-route_props_print.png",
-    "refImgs/disabled_js.gif",
-    "refImgs/details-layout.png",
-    "refImgs/abled_js.gif",
-    "refImgs/Data_Fetchs/moviesPage.gif",
-    "refImgs/Data_Fetchs"
+    "next_basic/refImgs/Data_Fetchs/moviesPage.gif",
+    "next-movie-app/Latest-build-log.md",
+    "next_basic/Data_Fetchs.md",
+    "next-movie-app/refimgs",
+    "next-movie-app",
+    "next_basic/Dynamic-Route.md",
+    "next_basic",
+    "Parallel-Requests.md",
+    "next_basic/Layout.md",
+    "next_basic/Loading-Components.md",
+    "next_basic/metadata.md",
+    "next_basic/Route-group.md",
+    "next_basic/Routing.md",
+    "next_basic/Project_setup.md",
+    "next_basic/Next_app_execute_process.md",
+    "next_basic/Not_Found_Routes.md",
+    "next_basic/refImgs/metadata_template.png",
+    "next-movie-app/refimgs/MovieApp/movieapp-proto.gif",
+    "next_basic/refImgs/disabled_js.gif",
+    "next_basic/refImgs/details-layout.png",
+    "next_basic/refImgs/abled_js.gif",
+    "next_basic/refImgs/usePathName_errors.png",
+    "next_basic/refImgs/nextjs_urls.png",
+    "next_basic/refImgs/nextjs_run_message.png",
+    "next_basic/refImgs/nextjs_route_sample1.gif",
+    "next_basic/refImgs/nextjs_404errors.png",
+    "next-movie-app/refimgs/MovieApp",
+    "next_basic/refImgs/Loadings",
+    "next_basic/refImgs/not_found",
+    "next_basic/refImgs/Dynamic_route",
+    "next_basic/refImgs/Data_Fetchs"
   ]
 }
