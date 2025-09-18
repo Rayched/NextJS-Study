@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next-movie-app/Latest-build-log.md",
+                "file": "next-movie-app/CSS_module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latest-build-log"
+              "title": "CSS_module"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53189533b5fb250d",
@@ -170,10 +169,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1aa3d2adc05db319",
+  "active": "b94f5d354bd58a0d",
   "lastOpenFiles": [
-    "next_basic/refImgs/Data_Fetchs/moviesPage.gif",
+    "next-movie-app/Global-style_in_Nextjs.md",
+    "next-movie-app/CSS_module.md",
     "next-movie-app/Latest-build-log.md",
+    "next_basic/Navigation_Bar.md",
+    "next_basic/refImgs/Data_Fetchs/moviesPage.gif",
     "next_basic/Data_Fetchs.md",
     "next-movie-app/refimgs",
     "next-movie-app",
@@ -197,7 +199,6 @@
     "next_basic/refImgs/nextjs_urls.png",
     "next_basic/refImgs/nextjs_run_message.png",
     "next_basic/refImgs/nextjs_route_sample1.gif",
-    "next_basic/refImgs/nextjs_404errors.png",
     "next-movie-app/refimgs/MovieApp",
     "next_basic/refImgs/Loadings",
     "next_basic/refImgs/not_found",

@@ -43,3 +43,14 @@
 #### **📆 2025.09.13 토요일**
 
 - **[이전 작업 내역 정리](/reports/next-movie-app/Latest-build-log.md)**
+  - 다른 API 사용하기로 결정한 뒤, 기본적인 사항들을 작업한 것을 정리해뒀다.
+
+---
+
+#### **📆 2025.09.18 목요일**
+
+- **[CSS Module + Viewport 설정](/reports/next-movie-app/CSS_module.md)**
+- **[Global Style in Next.js](/reports/next-movie-app/Global-style_in_Nextjs.md)**
+
+---
+
